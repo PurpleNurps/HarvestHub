@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Harvest Hub</h1>
 
-<p align="center"><img src="https://socialify.git.ci/pathirny/HarvestHub/image?font=Jost&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/PurpleNurps/HarvestHub/image?description=1&descriptionEditable=&font=Jost&name=1&owner=1&pattern=Circuit%20Board&theme=Light" alt="project-image"></p>
 
 <p id="description"Project Overview:
 Our team embarked on a 4-week journey to address a problem outlined in a given brief: creating a full-stack application to tackle a specific issue. Initially aiming to facilitate the buying and selling of homegrown veggies, we later pivoted our focus. Before delving into the project, we formed teams, with a mix of familiar faces and new collaborators. Our teamwork strategies included coin-toss and dot-voting for decision-making, backed by a Teamwork manifesto emphasizing open communication, daily stand-ups, and energizers using Gartic.
